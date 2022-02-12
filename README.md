@@ -2,12 +2,18 @@
 
 This repo contains my logisim designs of the sessional course CSE-206 of BUET.
 
+<br/>
+<img src='assets/rrd_meme.png' height=500/>
+<br/>
+Meme Credit: Rayhan Rashed Sir.
+<br/>
+
 ## Resources:
 
 -   [Truth Table Generator](https://www.dcode.fr/boolean-truth-table)
--   [Labsheet](https://github.com/BRAINIAC2677/Digital-Logic-Design/tree/main/assets)
--   [7400 logisim library](https://github.com/BRAINIAC2677/Digital-Logic-Design/tree/main/assets/logisim)
--   [Logisim for windows](https://github.com/BRAINIAC2677/Digital-Logic-Design/tree/main/assets/logisim)
+-   [Labsheet](assets/labsheet.pdf)
+-   [7400 logisim library](assets/logisim/)
+-   [Logisim for windows](assets/logisim/)
 
 ## How To Use:
 
